@@ -4,7 +4,7 @@ while True:
     text = input("Enter a piece of text: ")
 
     print("\nChoose an option:")
-    print("1. Calculate athe number of words in the text.")
+    print("1. Calculate the number of words in the text.")
     print("2. Calculate the number of characters in the text.")
     print("3. Reverse the text.")
     print("4. Capitalize the text.")
